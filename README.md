@@ -1,0 +1,2 @@
+# xray_subdomain_export
+导出xray子域名爆破的小脚本
